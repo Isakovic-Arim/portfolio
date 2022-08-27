@@ -1,8 +1,16 @@
-import Header from "./components/Header";
+import Header from "./components/Header/index";
+import NavBar from "./components/NavBar";
+import NavItem from "./components/NavItem";
 
 function Website() {
   return (
-    <Header />
+    <>
+      <NavBar>
+        <NavItem heading='About' />
+        <NavItem heading='Skills' />
+      </NavBar>
+      <Header />
+    </>
   );
 }
 
