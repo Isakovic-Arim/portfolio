@@ -2,7 +2,7 @@ import Header from "./components/Header";
 import NavBar from "./components/NavBar";
 import NavItem from "./components/NavItem";
 import SectionAbout from "./components/SectionAbout";
-import SectionSkills from "./components/SectionSkills";
+// import SectionSkills from "./components/SectionSkills";
 import SectionWork from "./components/SectionWork";
 
 function Website() {

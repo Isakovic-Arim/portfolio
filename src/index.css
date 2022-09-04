@@ -3,10 +3,11 @@
 @tailwind utilities;
 
 ::-webkit-scrollbar {
-  width: 5px;
+  display: none;
+  /* width: 5px; */
 }
 
-::-webkit-scrollbar-track {
+/* ::-webkit-scrollbar-track {
   background: none;
 }
 
@@ -16,8 +17,8 @@
 }
 
 ::-webkit-scrollbar-thumb:hover {
-  background: hsl(120, 70%, 40%);
-}
+  background: hsl(30, 100%, 50%);
+} */
 
 * {
   -webkit-font-smoothing: antialiased;
@@ -30,6 +31,10 @@
 
 body {
   margin: 0 10vw;
-  background-color: hsl(200, 100%, 5%);
+  background-color: hsl(180, 100%, 97%);
   overflow-x: hidden;
+}
+
+.dark {
+  background-color: hsl(200, 100%, 5%);
 }
