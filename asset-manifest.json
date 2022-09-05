@@ -1,18 +1,21 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.52f80b52.css",
-    "main.js": "/portfolio/static/js/main.9ad1dc25.js",
+    "main.css": "/portfolio/static/css/main.47276963.css",
+    "main.js": "/portfolio/static/js/main.61320d57.js",
+    "static/media/weather-forecast.png": "/portfolio/static/media/weather-forecast.4992ad1b3030f3283dea.png",
+    "static/media/color-palette-gen.png": "/portfolio/static/media/color-palette-gen.aef320d53f63189faad3.png",
+    "static/media/mortgage-calculator.png": "/portfolio/static/media/mortgage-calculator.328cd791e5a5cdff9d8f.png",
     "static/media/react.svg": "/portfolio/static/media/react.a70f252497757845a0550b8dbe46cb23.svg",
     "static/media/tailwindcss.svg": "/portfolio/static/media/tailwindcss.181ed2bfa54ea2874128ddb473221280.svg",
     "static/media/angular.svg": "/portfolio/static/media/angular.a0a4afe68138d6709de2718ebd8a79ec.svg",
     "static/media/light.svg": "/portfolio/static/media/light.10f7e8165f84dddc006c3885e9bd4a83.svg",
     "index.html": "/portfolio/index.html",
     "static/media/dark.svg": "/portfolio/static/media/dark.3bceab1ed0dfee3eb3c104148ba05cde.svg",
-    "main.52f80b52.css.map": "/portfolio/static/css/main.52f80b52.css.map",
-    "main.9ad1dc25.js.map": "/portfolio/static/js/main.9ad1dc25.js.map"
+    "main.47276963.css.map": "/portfolio/static/css/main.47276963.css.map",
+    "main.61320d57.js.map": "/portfolio/static/js/main.61320d57.js.map"
   },
   "entrypoints": [
-    "static/css/main.52f80b52.css",
-    "static/js/main.9ad1dc25.js"
+    "static/css/main.47276963.css",
+    "static/js/main.61320d57.js"
   ]
 }
