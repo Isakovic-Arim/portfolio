@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.47276963.css",
-    "main.js": "/portfolio/static/js/main.61320d57.js",
+    "main.css": "/portfolio/static/css/main.541f8cb8.css",
+    "main.js": "/portfolio/static/js/main.758a80ec.js",
     "static/media/weather-forecast.png": "/portfolio/static/media/weather-forecast.4992ad1b3030f3283dea.png",
     "static/media/color-palette-gen.png": "/portfolio/static/media/color-palette-gen.aef320d53f63189faad3.png",
     "static/media/mortgage-calculator.png": "/portfolio/static/media/mortgage-calculator.328cd791e5a5cdff9d8f.png",
@@ -11,11 +11,11 @@
     "static/media/light.svg": "/portfolio/static/media/light.10f7e8165f84dddc006c3885e9bd4a83.svg",
     "index.html": "/portfolio/index.html",
     "static/media/dark.svg": "/portfolio/static/media/dark.3bceab1ed0dfee3eb3c104148ba05cde.svg",
-    "main.47276963.css.map": "/portfolio/static/css/main.47276963.css.map",
-    "main.61320d57.js.map": "/portfolio/static/js/main.61320d57.js.map"
+    "main.541f8cb8.css.map": "/portfolio/static/css/main.541f8cb8.css.map",
+    "main.758a80ec.js.map": "/portfolio/static/js/main.758a80ec.js.map"
   },
   "entrypoints": [
-    "static/css/main.47276963.css",
-    "static/js/main.61320d57.js"
+    "static/css/main.541f8cb8.css",
+    "static/js/main.758a80ec.js"
   ]
 }
