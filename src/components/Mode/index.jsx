@@ -8,22 +8,13 @@ export default function Mode() {
 
     useEffect(() => {
         localStorage.setItem('mode', mode);
+        setIcon(mode === 'dark' ? light : dark);
         document.getElementsByTagName('body')[0].className = localStorage.getItem('mode');
     }, [mode]);
 
-    const handleClick = () => { mode === 'dark' ? setLightMode() : setDarkMode() }
+    const handleClick = () => { mode === 'dark' ? setMode('light') : setMode('dark') }
 
-    const setDarkMode = () => {
-        setMode('dark');
-        setIcon(dark);
-    }
-
-    const setLightMode = () => {
-        setMode('light');
-        setIcon(light);
-    }
-
-    return <button className="bg-slate-300 p-2 rounded-md text-center dark:text-white text-black inset-x-10" onClick={handleClick}>
+    return <button className="bg-slate-300 p-2 rounded-md text-center dark:text-white text-black fixed right-4 top-4" onClick={handleClick}>
         <img src={icon} alt='icon showing the mode being used' />
     </button>;
 }

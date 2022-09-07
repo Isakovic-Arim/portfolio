@@ -4,6 +4,7 @@ import NavItem from "./components/NavItem";
 import SectionAbout from "./components/SectionAbout";
 // import SectionSkills from "./components/SectionSkills";
 import SectionWork from "./components/SectionWork";
+import Mode from "./components/Mode";
 
 function Website() {
   return (
@@ -13,6 +14,7 @@ function Website() {
         <NavItem heading='Skills' link='#skills' />
         <NavItem heading='Work' link='#work' />
       </NavBar>
+      <Mode />
       <Header />
       <SectionAbout />
       {/* <SectionSkills /> */}
