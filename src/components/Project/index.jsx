@@ -24,7 +24,7 @@ export default function Project(props) {
     }
 
     return (
-        <motion.div initial={{ opacity: 0 }} whileInView={{ opacity: 1 }} className='h-screen mb-10' >
+        <motion.div initial={{ opacity: 0 }} whileInView={{ opacity: 1 }} className='h-screen' >
             <h1 className='dark:text-white text-black text-3xl mb-5'>{props.heading}</h1>
             <div className='md:flex justify-center items-center w-full mb-32'>
                 <div className='sm:w-full sm:h-full p-4 flex justify-center items-center dark:bg-orange-400 bg-blue-500'>
@@ -32,7 +32,7 @@ export default function Project(props) {
                 </div>
                 <div className='sm:w-full sm:h-full lg:w-96 lg:h-80 p-6 dark:bg-white bg-blue-100 md:rounded-r-xl'>
                     <article>
-                        <p className='inline-block font-medium w-80 mb-10'>{props.desc}.</p>
+                        <p className='inline-block font-medium mb-10'>{props.desc}</p>
                         <p className='underline font-medium mb-5'>Built with:</p>
                     </article>
                     <div className='flex justify-evenly'>
