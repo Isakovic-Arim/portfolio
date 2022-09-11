@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.320add11.css",
-    "main.js": "/portfolio/static/js/main.489c17e0.js",
+    "main.css": "/portfolio/static/css/main.96f93773.css",
+    "main.js": "/portfolio/static/js/main.7081d95e.js",
     "static/media/alpaca-image-gen.png": "/portfolio/static/media/alpaca-image-gen.331d0938a6e4c4c4c7bb.png",
     "static/media/weather-forecast.png": "/portfolio/static/media/weather-forecast.4992ad1b3030f3283dea.png",
     "static/media/color-palette-gen.png": "/portfolio/static/media/color-palette-gen.aef320d53f63189faad3.png",
@@ -21,11 +21,11 @@
     "static/media/light.svg": "/portfolio/static/media/light.94f15fa6e47465e9e5caf5c360d8a346.svg",
     "index.html": "/portfolio/index.html",
     "static/media/dark.svg": "/portfolio/static/media/dark.c0506a83cd32f06917ef2e665d3be744.svg",
-    "main.320add11.css.map": "/portfolio/static/css/main.320add11.css.map",
-    "main.489c17e0.js.map": "/portfolio/static/js/main.489c17e0.js.map"
+    "main.96f93773.css.map": "/portfolio/static/css/main.96f93773.css.map",
+    "main.7081d95e.js.map": "/portfolio/static/js/main.7081d95e.js.map"
   },
   "entrypoints": [
-    "static/css/main.320add11.css",
-    "static/js/main.489c17e0.js"
+    "static/css/main.96f93773.css",
+    "static/js/main.7081d95e.js"
   ]
 }
