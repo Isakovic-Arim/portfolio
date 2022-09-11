@@ -23,7 +23,7 @@ export default function SectionSkills() {
         <div className="lg:grid grid-rows-2 md:grid-cols-2">
             <section className="row-span-2">
                 <h1 className="dark:text-white text-black text-2xl mb-5">Web Development</h1>
-                <div className="grid grid-cols-3 gap-x-10 gap-y-20 mb-20 w-96">
+                <div className="grid grid-cols-2 lg:grid-cols-3 gap-x-10 gap-y-20 mb-20 w-64 lg:w-96">
                     <Skill logo={html} alt='html' status={intermediate} />
                     <Skill logo={css} alt='css' status={intermediate} />
                     <Skill logo={tailwind} alt='tailwind' status={intermediate} />
